@@ -47,10 +47,80 @@
   <img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white"/>
 </p>
 
-### 🧪 Selected Projects (from experience)
-- **Compliance Data Extraction Engine** — Spring Boot microservice + MongoDB; REST endpoints with Swagger; streamlined third-party risk reviews.  
-- **SEO Content Transformer** — Python pipeline leveraging LLM (Llama-70B) + company rules to unify and optimize site content.  
-- **Health Coaching Backend** — Azure Functions + FastAPI microservices, multi-tenant auth, Cosmos DB + Blob Storage, CI/CD on GitHub Actions.
+
+### ✅ Projects (with code)
+
+| 🧪 UniThrift (shared repo) | 🧪 Movie Recommendation System |
+|---|---|
+| <a href="https://github.com/rohit204k/UniThrift_Frontend"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rohit204k&repo=UniThrift_Frontend&show_owner=true&hide_border=false" alt="rohit204k/UniThrift_Frontend" width="420" /></a> | <a href="https://github.com/dishachiplonker/PYSPARK---MOVIE-RECOMMENDATION-SYSTEM"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dishachiplonker&repo=PYSPARK---MOVIE-RECOMMENDATION-SYSTEM&show_owner=true&hide_border=false" alt="dishachiplonker/PYSPARK---MOVIE-RECOMMENDATION-SYSTEM" width="420" /></a> |
+
+
+#### 🧪 Machine Learning Capstone (multi-repo bundle)
+Core algorithms implemented across 4 focused repos. See the overview for datasets, experiments, and results.
+
+- **Repos:**
+  - 🌳 Decision Trees & Random Forest — <a href="https://github.com/dishachiplonker/DECISION-TREE-AND-RANDOM-FOREST">repo</a>  
+  - 🧮 Multinomial Naive Bayes — <a href="https://github.com/dishachiplonker/MULTINOMIAL-NAIVE-BAYES">repo</a>  
+  - 🧠 Neural Network — <a href="https://github.com/dishachiplonker/NEURAL-NETWORK-">repo</a>  
+  - 👥 k-Nearest Neighbors — <a href="https://github.com/dishachiplonker/KNN">repo</a>
+
+<!-- Optional mini-grid (uniform widths keep icons the same size) -->
+<p align="left">
+  <a href="https://github.com/dishachiplonker/DECISION-TREE-AND-RANDOM-FOREST">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dishachiplonker&repo=DECISION-TREE-AND-RANDOM-FOREST&show_owner=true" alt="DT & RF" width="300" />
+  </a>
+  <a href="https://github.com/dishachiplonker/MULTINOMIAL-NAIVE-BAYES">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dishachiplonker&repo=MULTINOMIAL-NAIVE-BAYES&show_owner=true" alt="MNB" width="300" />
+  </a>
+  <br/>
+  <a href="https://github.com/dishachiplonker/NEURAL-NETWORK-">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dishachiplonker&repo=NEURAL-NETWORK-&show_owner=true" alt="Neural Network" width="300" />
+  </a>
+  <a href="https://github.com/dishachiplonker/KNN">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dishachiplonker&repo=KNN&show_owner=true" alt="KNN" width="300" />
+  </a>
+</p>
+
+---
+
+### 🗂️ Case studies (no public repo yet)
+
+<details>
+  <summary><b>Reddit Data Pipeline</b> · Airflow, S3, Glue, Athena, Redshift</summary>
+
+  <!-- Put badges/links in the body, not in <summary> -->
+  <p>
+    <img alt="status" src="https://img.shields.io/badge/repo-private-red">
+    <!-- <a href="LINK_TO_DEMO">Demo</a> · <a href="LINK_TO_PDF">Case Study (PDF)</a> -->
+  </p>
+
+  - Orchestrated ETL to Redshift with quality checks; topic clustering + engagement KPIs.  
+  - **Impact:** queries 10–15× faster via partitioning/cataloging; dashboards in Tableau.
+</details>
+
+<details>
+  <summary><b>URL Shortener + Analytics</b> · Spring Boot, React/TS, PostgreSQL, JWT</summary>
+
+  <p>
+    <img alt="status" src="https://img.shields.io/badge/repo-private-red">
+    <!-- <a href="LINK_TO_DEMO">Demo</a> · <a href="LINK_TO_PDF">Case Study (PDF)</a> -->
+  </p>
+
+  - Short-URL APIs with rate limiting + JWT; React analytics dashboard; Swagger + Docker.  
+  - **Impact:** reliable latency under load; end-to-end tests with JUnit/Cypress.
+</details>
+
+<details>
+  <summary><b>Employee Management System</b> · Spring Boot, MySQL, React</summary>
+
+  <p>
+    <img alt="status" src="https://img.shields.io/badge/repo-private-red">
+    <!-- <a href="LINK_TO_DEMO">Demo</a> · <a href="LINK_TO_PDF">Case Study (PDF)</a> -->
+  </p>
+
+  - CRUD REST APIs + responsive UI; containerized deployments; real-time updates with Axios.  
+  - **Impact:** accelerated internal workflows; reduced manual ops.
+</details>
 
 ### 🎓 Education
 - **M.S., Computer Science — UMass Amherst** (GPA: 3.77/4.0)  
