@@ -21,9 +21,9 @@
 - **Software Engineer @ FIS** — Migrated legacy ColdFusion APIs to **Spring Boot** microservices on **SQL Server**, modernized the frontend to **Angular**, and automated testing with **Selenium + JUnit/Mockito**.
 
 ### 📈 Impact Highlights
-- Facilitated **50+** third-party risk assessments; **reduced processing time by ~40%** for compliance workflows.  
-- Delivered **~15% SEO performance improvement** for a client through content transformation pipelines.  
-- Automated **~95%** of regression testing; increased code coverage by **~30%** and sped up releases.  
+- **Compliance automation (Atlas Systems):** Built a Spring Boot + MongoDB service that converts audit PDFs into structured controls; used across **50+** vendor assessments, cutting review turnaround by **~40%**.
+- **SEO quality (Graphite):** Shipped a Python + LLM (Llama-70B) content pipeline to standardize copy/metadata; reduced duplication and improved topical coverage, lifting SEO performance by **~15%**.
+- **Release quality (FIS):** Established Selenium + JUnit/Mockito regression suite and CI checks; automated **~95%** of manual tests, raised coverage **~30%**, and sped up releases.
 
 ### 🛠️ Tech I use
 **Languages/Frameworks:** Java, Spring Boot, Python, FastAPI, Django, JavaScript, Angular  
