@@ -128,7 +128,7 @@ Core algorithms implemented across 4 focused repos. See the overview for dataset
 - **B.E., CSE — Bangalore, India** (GPA: 9.14/10.0)
 
 ### 💼 Open to
-Full-time roles in **Software Engineering, Backend, Platform, Data & Infra** — where I can build reliable services, ship measurable impact, and mentor teams.
+Full-time roles in **Software Engineering, Backend, Platform, Data & Infra** — where I can build reliable services, ship and contribute to measurable impact.
 
 ---
 
