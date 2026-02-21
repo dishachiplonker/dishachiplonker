@@ -63,24 +63,6 @@ Core algorithms implemented across 4 focused repos. See the overview for dataset
   - 🧮 Multinomial Naive Bayes — <a href="https://github.com/dishachiplonker/MULTINOMIAL-NAIVE-BAYES">repo</a>  
   - 🧠 Neural Network — <a href="https://github.com/dishachiplonker/NEURAL-NETWORK-">repo</a>  
   - 👥 k-Nearest Neighbors — <a href="https://github.com/dishachiplonker/KNN">repo</a>
-
-<!-- Optional mini-grid (uniform widths keep icons the same size) -->
-<p align="left">
-  <a href="https://github.com/dishachiplonker/DECISION-TREE-AND-RANDOM-FOREST">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dishachiplonker&repo=DECISION-TREE-AND-RANDOM-FOREST&show_owner=true" alt="DT & RF" width="300" />
-  </a>
-  <a href="https://github.com/dishachiplonker/MULTINOMIAL-NAIVE-BAYES">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dishachiplonker&repo=MULTINOMIAL-NAIVE-BAYES&show_owner=true" alt="MNB" width="300" />
-  </a>
-  <br/>
-  <a href="https://github.com/dishachiplonker/NEURAL-NETWORK-">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dishachiplonker&repo=NEURAL-NETWORK-&show_owner=true" alt="Neural Network" width="300" />
-  </a>
-  <a href="https://github.com/dishachiplonker/KNN">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dishachiplonker&repo=KNN&show_owner=true" alt="KNN" width="300" />
-  </a>
-</p>
-
 ---
 
 ### 🗂️ Case studies (no public repo yet)
