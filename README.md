@@ -52,7 +52,7 @@
 
 | 🧪 UniThrift (shared repo) | 🧪 Movie Recommendation System |
 |---|---|
-| <a href="https://github.com/rohit204k/UniThrift_Frontend"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rohit204k&repo=UniThrift_Frontend&show_owner=true&hide_border=false" alt="rohit204k/UniThrift_Frontend" width="420" /></a> | <a href="https://github.com/dishachiplonker/PYSPARK---MOVIE-RECOMMENDATION-SYSTEM"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dishachiplonker&repo=PYSPARK---MOVIE-RECOMMENDATION-SYSTEM&show_owner=true&hide_border=false" alt="dishachiplonker/PYSPARK---MOVIE-RECOMMENDATION-SYSTEM" width="420" /></a> |
+| <a href="https://github.com/rohit204k/UniThrift_Frontend"></a> | <a href="https://github.com/dishachiplonker/PYSPARK---MOVIE-RECOMMENDATION-SYSTEM"></a> |
 
 
 #### 🧪 Machine Learning Capstone (multi-repo bundle)
