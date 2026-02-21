@@ -47,13 +47,11 @@
   <img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white"/>
 </p>
 
-
 ### ✅ Projects (with code)
 
 | 🧪 UniThrift (shared repo) | 🧪 Movie Recommendation System |
 |---|---|
-| <a href="https://github.com/rohit204k/UniThrift_Frontend"></a> | <a href="https://github.com/dishachiplonker/PYSPARK---MOVIE-RECOMMENDATION-SYSTEM"></a> |
-
+| 🔗 <a href="https://github.com/rohit204k/UniThrift_Frontend">github.com/rohit204k/UniThrift_Frontend</a> | 🔗 <a href="https://github.com/dishachiplonker/PYSPARK---MOVIE-RECOMMENDATION-SYSTEM">github.com/dishachiplonker/PYSPARK---MOVIE-RECOMMENDATION-SYSTEM</a> |
 
 #### 🧪 Machine Learning Capstone (multi-repo bundle)
 Core algorithms implemented across 4 focused repos. See the overview for datasets, experiments, and results.
